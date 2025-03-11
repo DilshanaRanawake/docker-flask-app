@@ -29,7 +29,7 @@ docker --version
 ```
 ### 2️⃣ Clone This Repository
 ```bash
-git clone https://github.com/your-username/docker-flask-app.git
+git clone https://github.com/DilshanaRanawake/docker-flask-app.git
 cd docker-flask-app
 ```
 
